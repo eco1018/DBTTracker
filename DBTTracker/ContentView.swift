@@ -35,7 +35,7 @@ struct ContentView: View {
                 }
             }
         } detail: {
-            Text("Select an item")
+            Text("Don't select an item")
         }
     }
 
